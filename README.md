@@ -24,7 +24,7 @@ A modern and feature-rich Tic-Tac-Toe game built with Java Swing. Play solo agai
 
 ---
 
-## 🖼️ Demonstration
+## 📹 Demonstration
 
 https://github.com/wanai220118/Tic-Tac-Toe_Game_Application/tree/main/Demonstration
 
