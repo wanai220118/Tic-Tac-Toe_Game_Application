@@ -45,18 +45,9 @@ https://github.com/wanai220118/Tic-Tac-Toe_Game_Application/tree/main/Demonstrat
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
+## 🚀 Prerequisites
 
 - Java 17 or newer (tested on Java 21)
 - Eclipse IDE or IntelliJ
 - MySQL server (Laragon or XAMPP)
 - MySQL JDBC Connector (add to project classpath)
-
-### Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-java.git
-   cd tic-tac-toe-java
